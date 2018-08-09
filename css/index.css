@@ -111,11 +111,11 @@ body{
 }
 
 .start{
-    background-image: url("../img/Play.png");
+    background-image: url("../img/Play.png") ;
     background-size: contain;
 }
 .end{
-    background: url("../img/Pause.png") no-repeat;
+    background: url("../img/Pause.png") ;
     background-size: contain;
 }
 #bgmusic{
